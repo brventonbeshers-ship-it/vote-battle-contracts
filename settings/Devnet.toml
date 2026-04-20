@@ -1,0 +1,16 @@
+[network]
+name = "devnet"
+stacks_node_rpc_address = "http://localhost:20443"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "twice particular replace describe mushroom obtain leisure crystal style balcony machine morning"
+derivation = "m/44'/5757'/0'/0/0"
+balance = 100_000_000_000_000
+is_mainnet = false
+
+[accounts.wallet_1]
+mnemonic = "sell invite acquire kitten bamboo drastic jelly vivid peace spawn twice guilt"
+derivation = "m/44'/5757'/0'/0/0"
+balance = 100_000_000_000_000
+is_mainnet = false
