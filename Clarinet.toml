@@ -1,0 +1,11 @@
+[project]
+name = "vote-battle-contracts"
+authors = ["brventonbeshers-ship-it"]
+description = "Clarity smart contracts for Vote Battle dApp"
+telemetry = false
+requirements = []
+
+[contracts.vote-dapp-stacks]
+path = "contracts/vote-dapp-stacks.clar"
+clarity_version = 2
+epoch = 2.5
